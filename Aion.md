@@ -3,6 +3,7 @@ She suggested I should complete a short questionnaire before engaging in a behav
 These behaviors as of now include:
 - Using alcohol, nicotine, or any other intoxicant
 - Watching YouTube
+
 My girlfriend originally suggested I do this on google forms, but I thought this would make a nice practice for constructing an app.
 
 The idea is that behavior seems more out of control if one is not able to confront or justify what they are about to do beforehand.
