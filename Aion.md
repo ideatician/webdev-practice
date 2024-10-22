@@ -27,11 +27,12 @@ Core features of Aion:
   If a template is good enough, I might consider adding them (with possible tweaks) to the core app, but users can also copy and save them for their own use from this section.
 
 The first template:
-1. (What is my) Current emotional state (?) / Tunnetila
-2. Why am I doing this? / Miksi teen tämän?
-3. What are the consequences? / Arvio teon seurauksista
-4. Am I still going to do it? / Teenkö tämän oikeasti? (Binary choice question, no words)
+1. What am I going to do? / Mitä olen tekemässä? (This could be a select from the menu question or 'other' > short description > save to menu)
+2. (What is my) Current emotional state (?) / Tunnetila
+3. Why am I doing this? / Miksi teen tämän?
+4. What are the consequences? / Arvio teon seurauksista
+5. Am I still going to do it? / Teenkö tämän oikeasti? (Binary choice question, no words)
 
-The answers to the three first questions must be at least 100 words in total, but there is no minimum word count for any individual field.
+The answers to the questions 2-4 must be at least 100 words in total, but there is no minimum word count for any individual field.
 The primary intention is to introduce a mindful delay between an impulse and acting upon it.
 One can differentially focus on the questions in a way that feels most relevant at the time.
