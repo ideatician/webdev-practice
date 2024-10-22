@@ -27,7 +27,7 @@ Core features of Aion:
   If a template is good enough, I might consider adding them (with possible tweaks) to the core app, but users can also copy and save them for their own use from this section.
 
 The first template:
-1. (What is your) Current emotional state (?) / Tunnetila
+1. (What is my) Current emotional state (?) / Tunnetila
 2. Why am I doing this? / Miksi teen tämän?
 3. What are the consequences? / Arvio teon seurauksista
 4. Am I still going to do it? / Teenkö tämän oikeasti? (Binary choice question, no words)
