@@ -14,3 +14,6 @@ My next steps are:
 - Delve deeper in React.dev
 - Start developing my own React app "Aion" (check Aion.md)
 - Complete PHP tutorial on w3s
+
+23.10. Finished React tutorial on w3s
+24.10. Started PostgreSQL tutorial on w3s
