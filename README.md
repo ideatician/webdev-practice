@@ -19,4 +19,4 @@ My next steps are:
 
 24.10. Started PostgreSQL tutorial on w3s (it's mostly the same as MySQL)
 
-25.10. Read https://aws.amazon.com/compare/the-difference-between-mysql-vs-postgresql/
+25.10. Finished PostgreSQL tutorial, read https://aws.amazon.com/compare/the-difference-between-mysql-vs-postgresql/
