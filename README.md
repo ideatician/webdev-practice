@@ -20,3 +20,5 @@ My next steps are:
 24.10. Started PostgreSQL tutorial on w3s (it's mostly the same as MySQL)
 
 25.10. Finished PostgreSQL tutorial, read https://aws.amazon.com/compare/the-difference-between-mysql-vs-postgresql/
+
+5.11. Last week I installed linux on my laptop and started working on the Aalto webdev course: https://fitech101.aalto.fi/web-software-development
